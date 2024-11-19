@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/dPs8vK3/pexels-reneterp-2544829.jpg",
+        "name": "spaghetti bolognese",
+        "description": "a classic italian pasta dish with a rich meat sauce",
+        "ingredients": [
+            "spaghetti",
+            "ground beef",
+            "tomato sauce"
+        ],
+        "preparing_time": 45,
+        "calories": 600
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/6nksRcm/pexels-pietrozj-671956.jpg",
+        "name": "chicken caesar salad",
+        "description": "a fresh salad with grilled chicken, romaine lettuce, and creamy caesar dressing",
+        "ingredients": [
+            "chicken breast",
+            "romaine lettuce",
+            "caesar dressing"
+        ],
+        "preparing_time": 30,
+        "calories": 450
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/kXFGsxJ/pexels-elletakesphotos-2696064.jpg",
+        "name": "margarita pizza",
+        "description": "a simple pizza topped with fresh tomato, mozzarella, and basil",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese"
+        ],
+        "preparing_time": 60,
+        "calories": 800
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/D4pqTrH/pexels-elevate-1267320-1.jpg",
+        "name": "vegetable stir-fry",
+        "description": "a quick and healthy stir-fry with mixed vegetables and a savory soy sauce",
+        "ingredients": [
+            "broccoli",
+            "carrot",
+            "bell pepper"
+        ],
+        "preparing_time": 25,
+        "calories": 350
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/0pNL8P4/pexels-yente-van-eynde-1263034-2403392.jpg",
+        "name": "beef tacos",
+        "description": "soft tortillas filled with seasoned ground beef, lettuce, cheese, and salsa",
+        "ingredients": [
+            "ground beef",
+            "taco seasoning",
+            "tortillas"
+        ],
+        "preparing_time": 35,
+        "calories": 550
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co.com/7GLWLgh/pexels-pixabay-262978.jpg",
+        "name": "banana smoothie",
+        "description": "a creamy smoothie made with ripe bananas, yogurt, and honey",
+        "ingredients": [
+            "banana",
+            "yogurt",
+            "honey"
+        ],
+        "preparing_time": 10,
+        "calories": 200
+    }
+]
